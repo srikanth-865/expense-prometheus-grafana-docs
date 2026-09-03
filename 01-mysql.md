@@ -35,7 +35,7 @@ Download the mysql package and extract it on the DB server itself:
 
 ```bash
 curl -o /tmp/mysql.tar.gz \
-  https://raw.githubusercontent.com/90s-org/expense-obs-documentation/main/artifacts/expense-mysql-v1.tar.gz
+  https://raw.githubusercontent.com/daws-90s/expense-prometheus-grafana-docs/main/artifacts/expense-mysql-v1.tar.gz
 mkdir -p /tmp/expense-mysql && cd /tmp/expense-mysql
 tar -xzf /tmp/mysql.tar.gz
 ```

@@ -42,7 +42,7 @@ attributes the process to `expense` for auditing.
 
 ```bash
 curl -o /tmp/backend.tar.gz \
-  https://raw.githubusercontent.com/90s-org/expense-obs-documentation/main/artifacts/expense-backend-v1.tar.gz
+  https://raw.githubusercontent.com/daws-90s/expense-prometheus-grafana-docs/main/artifacts/expense-backend-v1.tar.gz
 cd /app
 tar -xzf /tmp/backend.tar.gz
 chown -R expense:expense /app
